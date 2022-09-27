@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166023687507",
+    "project_id": "covid-f04ee",
+    "storage_bucket": "covid-f04ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166023687507:android:4ed50f6b6c7168326c05a6",
+        "android_client_info": {
+          "package_name": "putra.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166023687507-8f508mnisdfqi2ome87c71nfse859tal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVdFwQqP3zjLgLxpBNCHzU8OFDHQy-fQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166023687507-8f508mnisdfqi2ome87c71nfse859tal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
